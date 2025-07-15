@@ -23,3 +23,6 @@ To conduct a comprehensive analysis of Blinkit's sales performane, customer sati
 6) All metrics by Outlet Type
 
 
+https://github.com/user-attachments/assets/a34100e6-d7b3-4c0c-83ab-8313b9e7088a
+
+
