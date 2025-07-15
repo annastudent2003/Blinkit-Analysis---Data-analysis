@@ -13,3 +13,13 @@ To conduct a comprehensive analysis of Blinkit's sales performane, customer sati
 2) Average Sales
 3) Number of Items
 4) Average Rating
+
+# Chart's Requirements
+1) Total Sales by fat content
+2) Fat Content by Outlet for Total Sales
+3) Totals Sales by Outlet Establishment
+4) Total Sales by item Type
+5) Total Sales by Outlet Location
+6) All metrics by Outlet Type
+
+
