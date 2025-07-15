@@ -35,3 +35,8 @@ https://github.com/user-attachments/assets/a34100e6-d7b3-4c0c-83ab-8313b9e7088a
 
 ![image alt](https://github.com/annastudent2003/Blinkit-Analysis---Data-analysis/blob/f970828ed0f9caa03cafe1e79b66f588f8a9bbee/Images/3rd%20step.png)
 
+
+
+https://github.com/user-attachments/assets/f7f7c193-19a4-47a4-a7c8-30423bbc16bb
+
+
