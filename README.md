@@ -21,8 +21,17 @@ To conduct a comprehensive analysis of Blinkit's sales performane, customer sati
 4) Total Sales by item Type
 5) Total Sales by Outlet Location
 6) All metrics by Outlet Type
+   
 
 
 https://github.com/user-attachments/assets/a34100e6-d7b3-4c0c-83ab-8313b9e7088a
 
+
+# Process
+
+![image alt](https://github.com/annastudent2003/Blinkit-Analysis---Data-analysis/blob/1a0a63af7a000cbb9582e6918120472a4489bd5b/Images/1st%20step.png)
+
+![image alt](https://github.com/annastudent2003/Blinkit-Analysis---Data-analysis/blob/1a0a63af7a000cbb9582e6918120472a4489bd5b/Images/2nd%20step.png)
+
+![image alt](https://github.com/annastudent2003/Blinkit-Analysis---Data-analysis/blob/f970828ed0f9caa03cafe1e79b66f588f8a9bbee/Images/3rd%20step.png)
 
